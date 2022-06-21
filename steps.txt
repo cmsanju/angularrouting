@@ -1,0 +1,10 @@
+1 install node js
+2 angular cli (npm install)
+3 workspace 
+4 create the project (ng new projectname)
+5 path to the project 
+6 execute the project (ng serve)
+7 create the components (ng g c component name)
+8 routing the components
+9 inside component.html file give the url mappings
+10 inside component.html file add tag (<router-outlet></router-outlet>)
